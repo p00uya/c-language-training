@@ -3,7 +3,7 @@ In this repository, we will learn the essentials of C language for various appli
 
 Here's a basic outline to get you started.
 
-### Modern C Language Cheatsheet
+### Modern C Language content
 
 #### 1. **Introduction to C**
    - Brief history and significance
