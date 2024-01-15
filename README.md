@@ -16,7 +16,7 @@ Here's a basic outline to get you started.
    - Variables and Constants
    - Operators (arithmetic, relational, logical, bitwise)
 
-#### 3. **Control Flow**
+#### 3. [Control Flow](https://github.com/p00uya/c-language-training/blob/main/Loops.c)
    - if-else statements
    - switch-case statements
    - for loop
