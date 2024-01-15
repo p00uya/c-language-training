@@ -9,7 +9,7 @@ Here's a basic outline to get you started.
    - Brief history and significance
    - Characteristics of C
 
-#### 2. **Basic Syntax**
+#### 2. [Basic Syntax](https://github.com/p00uya/c-language-training/blob/main/BasicSyntax.c)
    - Hello World program
    - Comments
    - Data types (int, float, char, etc.)
