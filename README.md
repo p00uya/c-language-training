@@ -24,7 +24,7 @@ Here's a basic outline to get you started.
    - do-while loop
    - break and continue statements
 
-#### 4. **Functions**
+#### 4. [Functions](https://github.com/p00uya/c-language-training/blob/main/function.c)
    - Function declaration and definition
    - Function parameters and return values
    - Recursion
