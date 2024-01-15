@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-// Function to add two numbers
-int add(int a, int b) {
-    return a + b;
-}
-
 int main() {
     // Hello World program
     printf("Hello World!\n");
@@ -26,7 +21,7 @@ int main() {
     const double PI = 3.14159;
 
     // Arithmetic operators
-    int sum = add(3, 4);
+    int sum = 3  +  4;
     int difference = 7 - 3;
     float product = 2.5 * 6;
     float quotient = 8.0 / 2;
