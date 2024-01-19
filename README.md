@@ -41,7 +41,7 @@ Here's a basic outline to get you started.
    - Pointers and arrays
    - Dynamic memory allocation (malloc, calloc, realloc, free)
 
-#### 7. **Structures and Unions**
+#### 7.[Structures and Unions](https://github.com/p00uya/c-language-training/blob/main/Structures%26Unions.c)
    - Structure declaration and initialization
    - Nested structures
    - Union declaration
