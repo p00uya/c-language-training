@@ -35,7 +35,7 @@ Here's a basic outline to get you started.
    - String handling functions (strcpy, strcat, strlen, etc.)
    - Multi-dimensional arrays
 
-#### 6. **Pointers**
+#### 6. [Pointers](https://github.com/p00uya/c-language-training/blob/main/Pointers.c)
    - Pointer declaration and initialization
    - Pointer arithmetic
    - Pointers and arrays
