@@ -30,7 +30,7 @@ Here's a basic outline to get you started.
    - Recursion
    - Function prototypes
 
-#### 5. **Arrays and Strings**
+#### 5. [Arrays and Strings](https://github.com/p00uya/c-language-training/blob/main/Array%26Str.c)
    - Array declaration and initialization
    - String handling functions (strcpy, strcat, strlen, etc.)
    - Multi-dimensional arrays
